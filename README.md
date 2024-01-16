@@ -1,4 +1,4 @@
-# Opinioted and Usecase Based of Case Based Reasoning Algorithm
+# Opinionated and Use Case-Based of Case Based Reasoning Algorithm
 
 ## Description
 
